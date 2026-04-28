@@ -47,21 +47,51 @@
   <summary>💡 Click to expand</summary>
   <br>
 
-🧩 Languages  
-<p><img src="https://skillicons.dev/icons?i=c,cpp,java,python" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
+</p>
 
-🌐 Web Development  
-<p><img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,nodejs,nestjs" /></p>
+---
 
-☁️ Cloud & DevOps  
-<p><img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare" /></p>
+### 🌐 Full-Stack Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,nestjs" />
+</p>
 
-🗄️ Databases  
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /></p>
+---
 
-🎨 Design  
-<p><img src="https://skillicons.dev/icons?i=ps,ai,ae" /></p>
+### 🗄️ Databases & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite" />
+</p>
 
+---
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp" />
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+---
+
+### 🔧 Robotics & Embedded Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi" />
+</p>
+
+---
+
+### 🎨 UI/UX & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
 </details>
 
 <p align="center">
