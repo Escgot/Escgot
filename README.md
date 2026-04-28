@@ -1,15 +1,82 @@
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ouledali/) 
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=escgot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=escgot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=escgot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
----
-[![](https://komarev.com/ghpvc/?username=escgot&icon=0&color=0)](https://visitcount.itsvg.in)
+My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+
+A sample of my recent articles:
+
+<!-- BLOG-POST-LIST:START -->
+- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
+- [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
+- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
+- [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
+<!-- BLOG-POST-LIST:END -->
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://github.com/MartinHeinz
+[3]: https://www.linkedin.com/in/heinz-martin/
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
