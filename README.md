@@ -68,13 +68,13 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=escgot&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=escgot&layout=compact&theme=tokyonight)
 
-<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=escgot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=escgot&show_icons=true&theme=tokyonight)" /> <img src="https://streak-stats.herokuapp.com/?user=escgot&theme=tokyonight&hide_border=true&background=0d1117" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escgot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=escgot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" /> <img src="https://streak-stats.herokuapp.com/?user=escgot&theme=tokyonight&hide_border=true&background=0d1117" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escgot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" /> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
 </p>
+
 
 🐍 Contribution Snake (Animated)
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
