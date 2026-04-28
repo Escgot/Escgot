@@ -1,39 +1,54 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ouledali</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Creative Builder</h3>
+<!-- Premium GitHub Profile README for Mohamed -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ouledali/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mohamed%20Ouledali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Creative%20Builder&descAlignY=58&descSize=18)]()
+
+# Hello, folks! 👋
+
+My name is **Mohamed Ouledali** and I'm a passionate **Full Stack Developer** from **Tunisia 🇹🇳**.  
+I enjoy building modern web applications, designing premium user interfaces, and turning ideas into real products.
+
+You can find me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ouledali/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/escgot)
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Passionate about Web Development & AI
-- 🎨 I love creating modern UI/UX designs
-- ⚡ Building real-world projects daily
-- 📍 Tunisia
+- 🎓 Computer Science Student  
+- 💻 Focused on Full Stack Development  
+- 🤖 Interested in AI & Automation  
+- 🎨 Love premium UI/UX design  
+- ⚡ Always learning new technologies  
+- 🌍 Based in Tunisia
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Technologies & Tools
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+### 💻 Languages
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=2563eb)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=2563eb)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2563eb)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&color=2563eb)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=2563eb)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+### 🌐 Frontend
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=2563eb)
+![](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=nextdotjs&color=2563eb)
+![](https://img.shields.io/badge/Frontend-Vite-informational?style=flat&logo=vite&color=2563eb)
+![](https://img.shields.io/badge/Frontend-HTML5-informational?style=flat&logo=html5&color=2563eb)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+### ⚙ Backend
+![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=2563eb)
+![](https://img.shields.io/badge/Backend-NestJS-informational?style=flat&logo=nestjs&color=2563eb)
+![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&color=2563eb)
+
+### 🛢 Database
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&color=2563eb)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&color=2563eb)
+![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&color=2563eb)
 
 ---
 
@@ -41,21 +56,33 @@
 
 🔹 AI Study Assistant  
 🔹 Premium E-commerce Store  
-🔹 Graduation Management Platform  
+🔹 Wedding Handcraft Marketplace  
 🔹 Portfolio Websites  
+🔹 Automation Tools  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=escgot&show_icons=true&theme=tokyonight)
+<a href="https://github.com/escgot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=escgot&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=escgot&theme=tokyonight)
+<a href="https://github.com/escgot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escgot&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=escgot&layout=compact&theme=tokyonight)
+---
+
+## 🔥 Current Goal
+
+Building products that combine **beautiful design + real functionality**.
 
 ---
 
 ## 👀 Visitors
 
-![](https://komarev.com/ghpvc/?username=escgot&color=blue)
+![](https://komarev.com/ghpvc/?username=escgot&color=blue&style=flat)
+
+---
+⭐️ From [Mohamed Ouledali](https://github.com/escgot)
