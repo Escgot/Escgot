@@ -13,7 +13,6 @@
 </p>
 
 ## 🧠 About Me
-```diff
 + 🎓 Engineering Student
 + 🤖 Robotics & AI Enthusiast
 + 💻 Full-Stack Developer
