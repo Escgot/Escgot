@@ -1,3 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
-</p>
+## ⏱ Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+Python       5 hrs 20 mins  ███████████░░░░░░
+TypeScript   3 hrs 10 mins  ███████░░░░░░░░░
+C++          2 hrs 05 mins  █████░░░░░░░░░░░
