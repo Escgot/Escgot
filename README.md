@@ -81,20 +81,15 @@
 
 <p align="center">
 
-<a href="https://github.com/escgot](https://github.com/Escgot/ieee-ras-enis.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=escgot&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Escgot/ieee-ras-enis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Escgot&repo=ieee-ras-enis&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/escgot](https://github.com/Escgot/ai-study.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=escgot&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Escgot/ai-study">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Escgot&repo=ai-study&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
-</p>
-
 
 
 ## 📊 GitHub Stats
