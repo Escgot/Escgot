@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Student;Full-Stack+Developer;Robotics+Enthusiast;Building+Smart+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Student;Full-Stack+Developer;Robotics+Enthusiast;Building+Smart+Systems" />
 </p>
 
 ---
@@ -23,9 +23,11 @@
 ---
 
 ## 🧠 About Me
-```diff
-+ 🎓 Engineering Student (Prepa → Big Tech Goal)
-+ 🤖 Passionate about Robotics & AI
-+ 💻 Full-Stack Developer (Web & Systems)
-+ 🌍 Goal: Work internationally
-+ ⚡ Focus: Maths | Physics | Programming | English
+
+- 🎓 Computer Science Student
+- 💻 Passionate about Web Development & AI
+- 🎨 I love creating modern UI/UX designs
+- ⚡ Building real-world projects daily
+- 📍 Tunisia
+
+---
