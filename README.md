@@ -9,7 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Student;Full-Stack+Developer;Robotics+Enthusiast;Building+Smart+Systems" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
+</p>
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -21,7 +23,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
+</p>
 
 ## 🧠 About Me
 
@@ -31,7 +35,9 @@
 - ⚡ Building real-world projects daily
 - 📍 Tunisia
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
+</p>
 
 ⚡ Tech Stack
 🧩 Languages
