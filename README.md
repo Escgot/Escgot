@@ -45,7 +45,7 @@
 <p> <img src="https://skillicons.dev/icons?i=ps,ai,ae" /> </p>
 
 
-🚀 Featured Projects
+🚀 Featured Projects:
 🤖 Robotics Systems
 
 Autonomous robots, AI integration, real-world applications
@@ -53,7 +53,7 @@ Tech: C++, Python, ROS, OpenCV
 
 📚 Smart Library System
 
-Intelligent seat management + real-time display
+Intelligent seat management + real-time display system
 Tech: Next.js, Node.js, MySQL
 
 🌐 Full-Stack Applications
