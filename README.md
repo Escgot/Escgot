@@ -1,3 +1,22 @@
+
+👉 Then connect WakaTime:
+- Go to WakaTime dashboard  
+- Enable GitHub README auto update  
+
+---
+
+## 🎯 5. INTERACTIVE PROJECT CARDS (THIS IS 🔥)
+
+## 🚀 Featured Projects
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
+
+<a href="https://github.com/escgot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=escgot&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/escgot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=escgot&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
+</a>
+
 </p>
