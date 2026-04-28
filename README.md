@@ -42,22 +42,18 @@
 
 ## ⚡ Tech Stack
 <a id="tech"></a>
-
 <details>
   <summary>💡 Click to expand</summary>
   <br>
-
+### 🧩 Languages 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
 </p>
-
 ---
-
 ### 🌐 Full-Stack Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,nestjs" />
 </p>
-
 ---
 
 ### 🗄️ Databases & Storage
