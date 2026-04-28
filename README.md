@@ -123,7 +123,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escgot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escgot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" /> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
 </p>
 
 <p align="center">
