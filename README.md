@@ -18,3 +18,13 @@
 + 🤖 Robotics & AI Enthusiast
 + 💻 Full-Stack Developer
 + 🌍 Goal: Work internationally
+<!-- Neon Divider --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=2"/> </p>
+⚡ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,nestjs,mongodb,mysql,aws" /> </p> <!-- Pulse Divider --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00F7FF&center=true&vCenter=true&lines=──────────────────────────────"/> </p>
+🚀 Projects
+🤖 Robotics Systems
+📚 Smart Library System
+🌐 Full Stack Apps
+<!-- Matrix Divider --> <p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/line.gif" width="100%"/> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=escgot&theme=tokyonight&show_icons=true"/> </p> <!-- Final Wave --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/> </p>
