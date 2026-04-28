@@ -45,18 +45,5 @@
 <p> <img src="https://skillicons.dev/icons?i=ps,ai,ae" /> </p>
 
 
-🚀 Featured Projects:
-🤖 Robotics Systems
-
-Autonomous robots, AI integration, real-world applications
-Tech: C++, Python, ROS, OpenCV
-
-📚 Smart Library System
-
-Intelligent seat management + real-time display system
-Tech: Next.js, Node.js, MySQL
-
-🌐 Full-Stack Applications
-
-Scalable and modern web apps
-Tech: React, NestJS, MongoDB, AWS
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=escgot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" /> <img src="https://streak-stats.herokuapp.com/?user=escgot&theme=tokyonight&hide_border=true&background=0d1117" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escgot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" /> </p>
