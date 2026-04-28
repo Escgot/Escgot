@@ -12,14 +12,11 @@
 </p>
 
 ## 🌐 Connect With Me
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/mohamed-ouledali/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://github.com/escgot">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
