@@ -53,27 +53,37 @@
   <summary>💡 Click to expand</summary>
   <br>
 
-🧩 Languages  
-<p><img src="https://skillicons.dev/icons?i=c,cpp,java,python" /></p>
+<details>
+<summary>📦 Expand Stack Modules</summary>
 
-🌐 Web Development  
-<p><img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,nodejs,nestjs" /></p>
+<br>
 
-☁️ Cloud & DevOps  
-<p><img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare" /></p>
-
-🗄️ Databases  
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /></p>
-
-🎨 Design  
-<p><img src="https://skillicons.dev/icons?i=ps,ai,ae" /></p>
-
-</details>
-
+### 🧩 Core Languages
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
+### 🌐 Web Layer
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,nodejs,nestjs" />
+</p>
+
+### ☁️ Cloud Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare" />
+</p>
+
+### 🗄️ Data Layer
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### 🎨 UI / Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae" />
+</p>
+
+</details>
 
 
 ## 🚀 Featured Projects
