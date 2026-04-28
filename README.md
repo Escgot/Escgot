@@ -65,8 +65,8 @@
   <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,nodejs,nestjs" />
 </p>
 
+<p align="center">### ☁️ Cloud Systems</p>
 <p align="center">
-  ### ☁️ Cloud Systems
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare" />
 </p>
 
