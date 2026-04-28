@@ -81,11 +81,11 @@
 
 <p align="center">
 
-<a href="https://github.com/escgot">
+<a href="https://github.com/escgot](https://github.com/Escgot/ieee-ras-enis.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=escgot&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/escgot">
+<a href="https://github.com/escgot](https://github.com/Escgot/ai-study.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=escgot&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"/>
 </a>
 
