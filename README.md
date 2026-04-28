@@ -53,33 +53,30 @@
   <summary>💡 Click to expand</summary>
   <br>
 
-<details>
-<summary>📦 Expand Stack Modules</summary>
 
-<br>
 
-### 🧩 Core Languages
 <p align="center">
+  ### 🧩 Core Languages
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-### 🌐 Web Layer
 <p align="center">
+  ### 🌐 Web Layer
   <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,nodejs,nestjs" />
 </p>
 
-### ☁️ Cloud Systems
 <p align="center">
+  ### ☁️ Cloud Systems
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare" />
 </p>
 
-### 🗄️ Data Layer
 <p align="center">
+  ### 🗄️ Data Layer
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
-### 🎨 UI / Design
 <p align="center">
+  ### 🎨 UI / Design
   <img src="https://skillicons.dev/icons?i=ps,ai,ae" />
 </p>
 
