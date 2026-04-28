@@ -77,6 +77,9 @@
 
 
 ## 🚀 Featured Projects
+<p align="center">
+  <b>IEEE RAS ENIS Project</b> | <b>AI Study Platform</b>
+</p>
 <a id="projects"></a>
 
 <p align="center">
