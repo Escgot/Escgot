@@ -1,19 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mohamed%20Ouledali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20|%20Full-Stack%20Developer%20|%20Robotics%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Student;Full-Stack+Developer;Robotics+Enthusiast;Building+Smart+Systems" />
 </p>
-
 <p align="center">
   <a href="#about"><img src="https://img.shields.io/badge/About-00F7FF?style=for-the-badge&logo=readme&logoColor=black"/></a>
   <a href="#tech"><img src="https://img.shields.io/badge/Tech-2563eb?style=for-the-badge&logo=code&logoColor=white"/></a>
   <a href="#projects"><img src="https://img.shields.io/badge/Projects-00F7FF?style=for-the-badge&logo=github&logoColor=black"/></a>
   <a href="#stats"><img src="https://img.shields.io/badge/Stats-2563eb?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
 </p>
-
-
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -44,8 +40,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
 </p>
 
-
-
 ## ⚡ Tech Stack
 <a id="tech"></a>
 
@@ -74,8 +68,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
 </p>
 
-
-
 ## 🚀 Featured Projects
 <a id="projects"></a>
 <p align="center">
@@ -87,9 +79,10 @@
 <a href="https://github.com/Escgot/ai-study">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Escgot&repo=ai-study&theme=tokyonight&hide_border=true"/>
 </a>
-
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
+</p>
 
 ## 📊 GitHub Stats
 <a id="stats"></a>
