@@ -52,4 +52,5 @@
 🐍 Contribution Snake (Animated)
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 
-Code. Build. Fail. Improve. Repeat.
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=escgot&color=00F7FF&style=flat-square"/> </p> ```
