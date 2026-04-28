@@ -32,20 +32,14 @@
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
+⚡ Tech Stack
+🧩 Languages
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /> </p>
+🌐 Web Development
+<p> <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,nodejs,nestjs" /> </p>
+☁️ Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare" /> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> </p>
+🎨 Design
+<p> <img src="https://skillicons.dev/icons?i=ps,ai,ae" /> </p>
