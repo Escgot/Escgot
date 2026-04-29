@@ -46,49 +46,49 @@
   <summary>💡 Click to expand</summary>
   <br>
   
-### 🧩 Languages 
+### Languages 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
 </p>
   
 ---
   
-### 🌐 Full-Stack Development
+### Full-Stack Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,nestjs" />
 </p>
   
 ---
 
-### 🗄️ Databases & Storage
+### Databases & Storage
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite" />
 </p>
 
 ---
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp" />
 </p>
 
 ---
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ---
 
-### 🔧 Robotics & Embedded Systems
+### Robotics & Embedded Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi" />
 </p>
 
 ---
 
-### 🎨 UI/UX & Design
+### UI/UX & Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
