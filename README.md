@@ -11,22 +11,6 @@
   <a href="#stats"><img src="https://img.shields.io/badge/Stats-2563eb?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
 </p>
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ouledali/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://github.com/escgot">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
-</p>
-
-
-
 ## 🧠 About Me
 <a id="about"></a>
 
@@ -135,6 +119,19 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
 </p>
 
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-ouledali/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://github.com/escgot">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
+</p>
 
 ## 👀 Profile Views
 <p align="center">
