@@ -32,49 +32,155 @@
   
 ### Languages 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
+
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" height="45"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=typescript" height="45"/>
+  </a>
+
 </p>
-  
+
 ---
   
 ### Full-Stack Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,nestjs" />
+  
+  <a href="https://https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  </a>
+  <a href="https://https://https://www.w3.org/TR/css/#css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  </a>
+  <a href="https://https://https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="45"/>
+  </a>
+  <a href="https://https://https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
+  </a>
+  <a href="https://https://https://nodejs.org/en/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+  </a>
+  <a href="https://https://https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" height="45"/>
+  </a>
+  <a href="https://https://https://nestjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" height="45"/>
+  </a>
+  
 </p>
   
 ---
 
 ### Databases & Storage
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite" />
+
+  <a href="https://https://https://www.mongodb.com/products/platform/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+  </a>
+  <a href="https://https://https://https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  </a>
+  <a href="https://https://https://https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+  </a>
+  <a href="https://https://https://https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" height="45"/>
+  </a>
+  <a href="https://https://https://https://sqlite.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
+  </a>
+  
 </p>
 
 ---
 
 ### Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp" />
+
+  <a href="https://https://https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="45"/>
+  </a>
+  <a href="https://https://https://https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  </a>
+  <a href="https://https://https://https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  <a href="https://https://https://https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" height="45"/>
+  </a>
+  <a href="https://https://https://https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+  </a>
+  <a href="https://https://https://https://cloud.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp" height="45"/>
+  </a>
+    
 </p>
 
 ---
 
 ### AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+  <a href="https://https://https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  </a>
+  <a href="https://https://https://https://tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+  </a>
+  <a href="https://https://https://https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+  </a>
+  
 </p>
 
 ---
 
 ### Robotics & Embedded Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi" />
+
+  <a href="https://https://https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" height="45"/>
+  </a>
+  <a href="https://https://https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+  </a>
+  <a href="https://https://https://https://www.raspberrypi.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" height="45"/>
+  </a>
+  
 </p>
 
 ---
 
 ### UI/UX & Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+
+  <a href="https://https://https://figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" height="45"/>
+  </a>
+  <a href="https://https://https://https://www.adobe.com/products/photoshop.html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ps" height="45"/>
+  </a>
+  <a href="https://https://https://https://www.adobe.com/products/illustrator.html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ai" height="45"/>
+  </a>
+
 </p>
 </details>
 
