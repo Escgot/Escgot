@@ -237,16 +237,9 @@
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
-</p>
-
-## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=escgot&color=00F7FF&style=flat-square"/>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=80&section=footer"/>
 </p>
