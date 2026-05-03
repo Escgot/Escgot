@@ -14,7 +14,7 @@
 ## 🧠 About Me
 <a id="about"></a>
 
-- 🎓 Computer Science Student  
+- 🎓 Engineering Student  
 - 💻 Passionate about Web Development & AI  
 - 🎨 I love creating modern UI/UX designs  
 - ⚡ Building real-world projects daily  
