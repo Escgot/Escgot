@@ -1,243 +1,104 @@
+<h1 align="center">Mohamed Ouledali</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mohamed%20Ouledali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20|%20Full-Stack%20Developer%20|%20Robotics%20and%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Student;Full-Stack+Developer;Robotics+Enthusiast;Building+Smart+Systems" />
-</p>
-<p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/About-00F7FF?style=for-the-badge&logo=readme&logoColor=black"/></a>
-  <a href="#tech"><img src="https://img.shields.io/badge/Tech-2563eb?style=for-the-badge&logo=code&logoColor=white"/></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Projects-00F7FF?style=for-the-badge&logo=github&logoColor=black"/></a>
-  <a href="#stats"><img src="https://img.shields.io/badge/Stats-2563eb?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
+Engineering Student | Software Engineering • AI • Robotics
 </p>
 
-## 🧠 About Me
-<a id="about"></a>
-
-- 🎓 Engineering Student  
-- 💻 Passionate about Web Development & AI  
-- 🎨 I love creating modern UI/UX designs  
-- ⚡ Building real-world projects daily  
-- 📍 Tunisia  
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
-</p>
-
-## ⚡ Tech Stack
-<a id="tech"></a>
-<details>
-  <summary>💡 Click to expand</summary>
-  <br>
-  
-### Languages 
-<p align="center">
-
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" height="45"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=typescript" height="45"/>
-  </a>
-
-</p>
-
----
-  
-### Full-Stack Development
-<p align="center">
-  
-  <a href="https://https://html.spec.whatwg.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="45"/>
-  </a>
-  <a href="https://https://https://www.w3.org/TR/css/#css/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="45"/>
-  </a>
-  <a href="https://https://https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="45"/>
-  </a>
-  <a href="https://https://https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
-  </a>
-  <a href="https://https://https://nodejs.org/en/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-  </a>
-  <a href="https://https://https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" height="45"/>
-  </a>
-  <a href="https://https://https://nestjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nestjs" height="45"/>
-  </a>
-  
-</p>
-  
----
-
-### Databases & Storage
-<p align="center">
-
-  <a href="https://https://https://www.mongodb.com/products/platform/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-  </a>
-  <a href="https://https://https://https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  </a>
-  <a href="https://https://https://https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-  </a>
-  <a href="https://https://https://https://redis.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redis" height="45"/>
-  </a>
-  <a href="https://https://https://https://sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
-  </a>
-  
+Interested in intelligent systems, scalable software architectures, and building real-world engineering solutions that combine mathematics, programming, and system design.
 </p>
 
 ---
 
-### Cloud & DevOps
-<p align="center">
+## About Me
 
-  <a href="https://https://https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" height="45"/>
-  </a>
-  <a href="https://https://https://https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="45"/>
-  </a>
-  <a href="https://https://https://https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-  <a href="https://https://https://https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" height="45"/>
-  </a>
-  <a href="https://https://https://https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="45"/>
-  </a>
-  <a href="https://https://https://https://cloud.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp" height="45"/>
-  </a>
-    
-</p>
+Engineering student focused on modern software systems, backend architectures, and intelligent applications.
+
+I am passionate about building efficient and reliable systems, especially in areas involving AI, LLMs, and automation.
+
+My experience and interests span:
+- Artificial Intelligence & Machine Learning (ML / DL / LLMs)
+- Backend Engineering & System Design
+- Robotics & Embedded Systems
+- Scientific & Engineering Software Development
+- Scalable Web & Cloud Architectures
+- DevOps and Software Deployment
+
+I enjoy working on technical projects in collaborative environments and continuously improving through hands-on engineering work.
 
 ---
 
-### AI & Machine Learning
-<p align="center">
+## Current Focus
 
-  <a href="https://https://https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  </a>
-  <a href="https://https://https://https://tensorflow.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-  </a>
-  <a href="https://https://https://https://pytorch.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-  </a>
-  
-</p>
+I am currently focused on building and learning around:
+
+- Machine Learning & Deep Learning  
+- Large Language Models (LLMs)  
+- Backend Architecture & API Design  
+- Embedded Systems & Robotics  
+- Cloud Infrastructure & DevOps Practices  
+
+I am particularly interested in designing systems that move from theory to production.
+
+## Technical Skills
+
+### Languages
+C • C++ • Python • JavaScript • TypeScript • SQL
+
+### Software Engineering
+React • Next.js • Node.js • Express • NestJS
+
+### AI & Data
+PyTorch • TensorFlow • scikit-learn • NumPy • pandas
+
+### Databases
+PostgreSQL • MongoDB • Redis • MySQL
+
+### Tools & Platforms
+Docker • Git • Linux • AWS
+
+### Robotics & Embedded
+Arduino • Raspberry Pi • Embedded C/C++
 
 ---
 
-### Robotics & Embedded Systems
-<p align="center">
+## Featured Projects
 
-  <a href="https://https://https://www.arduino.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino" height="45"/>
-  </a>
-  <a href="https://https://https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-  </a>
-  <a href="https://https://https://https://www.raspberrypi.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" height="45"/>
-  </a>
-  
-</p>
+### WindLoader Calculator
+Engineering software for structural wind load analysis based on Eurocode 1 (EN 1991-1-4). Built as a full-stack system with a FastAPI backend, computational engine, and automated engineering report generation.
+
+**Tech:** Python • FastAPI • Scientific Computing • 3D Visualization • Report Automation
 
 ---
 
-### UI/UX & Design
-<p align="center">
+### Reinforced Concrete Beam Designer
+Full-stack engineering application for reinforced concrete beam design based on Eurocode 2 (EN 1992-1-1). Implements a Python-based calculation engine with a modern web interface and containerized deployment.
 
-  <a href="https://https://https://figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" height="45"/>
-  </a>
-  <a href="https://https://https://https://www.adobe.com/products/photoshop.html/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ps" height="45"/>
-  </a>
-  <a href="https://https://https://https://www.adobe.com/products/illustrator.html/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ai" height="45"/>
-  </a>
+**Tech:** Python • FastAPI • React • TailwindCSS • Docker • Engineering Computation
 
-</p>
-</details>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
-</p>
+# Opportunities
 
-## 🚀 Featured Projects
-<a id="projects"></a>
-<p align="center">
+Currently looking for:
+- Software Engineering Internships
+- AI / Machine Learning Internships
+- Backend Engineering Opportunities
+- Engineering projects involving simulation, automation, or intelligent systems
 
-<a href="https://github.com/Escgot/ieee-ras-enis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Escgot&repo=ieee-ras-enis&theme=tokyonight&hide_border=true"/>
-</a>
+Open to research, engineering, and development opportunities.
 
-<a href="https://github.com/Escgot/ai-study">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Escgot&repo=ai-study&theme=tokyonight&hide_border=true"/>
-</a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
-</p>
 
-## 📊 GitHub Stats
-<a id="stats"></a>
+> I learn best by building real things and improving them over time.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=escgot&theme=tokyonight&hide_border=true&background=0d1117" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escgot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
-</p>
+## Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+- LinkedIn: https://www.linkedin.com/in/mohamed-ouledali/
+- Email: mbmohamed195@gmail.com
+- GitHub: https://github.com/Escgot
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2563eb&height=3"/>
-</p>
+---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:mbmohamed195@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-ouledali/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://github.com/escgot">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=escgot&color=00F7FF&style=flat-square"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=80&section=footer"/>
-</p>
+*Thanks for visiting my profile. Open to collaborations, internships, and engineering opportunities in software, AI, and robotics.*
