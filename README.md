@@ -16,11 +16,8 @@
 
 ## About Me
 
-Engineering student passionate about transforming complex engineering challenges into scalable software solutions.
-
-My expertise spans applied AI, backend engineering, full-stack development, and embedded systems, with a strong emphasis on building production-oriented systems rather than experimental prototypes.
-
-From AI-powered inspection platforms and computer vision applications to robotics projects and engineering software, I enjoy designing solutions that connect theory with real-world impact.
+Engineering Student & Builder. Focused on production-grade software and embedded systems. I build scalable backend solutions, AI-powered computer vision platforms, and robotics software.
+Turning engineering challenges into shippable reality.
 
 ### Areas of Interest
 
