@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Escgot&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 <h1 align="center">Hi there, I'm Mohamed Ouledali</h1>
 
 <p align="center">
@@ -8,25 +12,31 @@
   Building intelligent systems where <strong>mathematics</strong>, <strong>software engineering</strong>, and <strong>real-world constraints</strong> meet.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Escgot&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 ## About Me
 
-Engineering student with a focus on scalable backend systems, AI applications, and engineering software. I'm drawn to problems that sit at the intersection of rigorous computation and practical deployment — from structural analysis tools to LLM-powered pipelines.
+Engineering student passionate about transforming complex engineering challenges into scalable software solutions.
 
-I learn best by building things end-to-end, from mathematical model to production system.
+My expertise spans applied AI, backend engineering, full-stack development, and embedded systems, with a strong emphasis on building production-oriented systems rather than experimental prototypes.
 
-🔭 **Current interests:**
-- Large Language Models & AI system design
-- Backend architecture & API engineering
-- Embedded systems & robotics
-- Scientific computing & engineering software
+From AI-powered inspection platforms and computer vision applications to robotics projects and engineering software, I enjoy designing solutions that connect theory with real-world impact.
 
-🌱 **Currently learning:** LLM fine-tuning & Reinforcement Learning
+### Areas of Interest
+
+- Artificial Intelligence & Large Language Models
+- Computer Vision & Deep Learning
+- Backend Systems & API Architecture
+- Full-Stack Web Development
+- Robotics & Embedded Systems
+- Engineering Software & Automation
+
+### Currently Exploring
+
+- LLM Fine-Tuning
+- Reinforcement Learning
+- AI Agent Architectures
+- Scalable System Design
 
 ---
 
@@ -120,4 +130,5 @@ Open to research collaborations and projects involving simulation, automation, o
   <a href="https://www.linkedin.com/in/mohamed-ouledali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mbmohamed195@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Escgot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://portfolio.mohamedouledali.workers.dev/"><img src="https://img.shields.io/badge/Mohamed_Ouledali-Portfolio-4F46E5?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio"/></a>
 </p>
