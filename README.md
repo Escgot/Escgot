@@ -93,9 +93,11 @@ Turning engineering challenges into shippable reality.
 
 | **Project** | **Description** | **Stack:** |
 |---|---|---|
-| [WindLoader Calculator](https://github.com/Escgot/Windloader-Calculator) | Structural wind load analysis software based on Eurocode 1 standards with FastAPI backend, 3D visualization, and automated PDF reports. | `Python` `FastAPI` `Scientific Computing` `3D Visualization` `Report Automation` |
+| [Smart-concrete-crack-detector](https://github.com/Escgot/Smart-concrete-crack-detector) | AI-powered structural surface inspection and asset management, Detects cracks, classifies severity using engineering standards (EN 206). | `Python` `FastAPI` `YOLOv8` `ONNX Runtime` |
+| [WindLoader Calculator](https://github.com/Escgot/Windloader-Calculator) | Structural wind load analysis software based on Eurocode 1 standards with FastAPI backend, 3D visualization, and automated PDF reports. | `Python` `FastAPI` `TypeScript` |
 | [Reinforced Concrete Beam Designer](https://github.com/Escgot/Reinforced-Concrete-BEAM-designer) | RC beam design tool implementing Eurocode 2 with a Python engine, React interface, and reinforcement compliance checking. | `Python` `FastAPI` `React` `TailwindCSS` `Docker` |
 | [Village-Under-Attack](https://github.com/Escgot/Village-Under-Attack) | 2D survival strategy game where players defend a village against enemy attacks. | `C++`, `SDL2`, `Game Development` |
+| [Desktop-Cleaner](https://github.com/Escgot/Desktop-Cleaner) | A cross-platform automation tool that intelligently organizes messy file systems, Includes real-time file monitoring, automatic categorization, duplicate detection. | `Python` `watchdog` `File system APIs` `OS automation`|
 | [WSN-Simulator](https://github.com/Escgot/WSN-Simulator) | Object-oriented wireless sensor network simulator with node communication and energy tracking. | `C++`, `OOP`, `Simulation` |
 | [nbs-dental](https://github.com/Escgot/nbs-dental) | Professional dental clinic website with responsive UI and service presentation. | `HTML`, `CSS`, `JavaScript` |
 
